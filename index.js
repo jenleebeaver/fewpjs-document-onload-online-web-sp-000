@@ -7,3 +7,4 @@ console.log("This console.log() fires when index.js loads - before DOMContentLoa
 );
 
 const DOMContentLoaded = document.getElementByID("p#text");
+p.innerHTML = "This is really cool."
